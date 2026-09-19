@@ -1,0 +1,8 @@
+{
+  "name": "AI Streak Quiz Generator",
+  "description": "Test your knowledge on any topic with dynamic AI-generated quiz questions and build your winning streak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
